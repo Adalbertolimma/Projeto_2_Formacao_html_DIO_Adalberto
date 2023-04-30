@@ -2,6 +2,9 @@
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Aluno: Adalberto de Lima
+Meu comentario sobre esse projeto: Achei muito legal, leve em conta que quando o fiz tinha poucos conhecimentos de CSS pois ainda vou estudar, fiz com o que sabia de HTML e pouco CSS. Achei incrivel a oportunidade de botar a mão na massa.
+
+
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 - Formulários
